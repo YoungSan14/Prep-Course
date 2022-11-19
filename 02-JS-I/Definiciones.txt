@@ -1,0 +1,21 @@
+
+* Variables:
+se concidera como una exprecion, ya que devuelve un valor, y sirven para almacenar diferentes
+tipos de datos, estos pueden ser, numeros, caracteres, booleanos, funciones, etc.
+
+* Strings:
+son cadenas de caracteres, o mejor dicho, es un conjunto de caracteres, pueden ser letras,
+numeros o signos, estos iran siempre dentro de comillas("")
+
+* Funciones:
+es un bloque de codigo, o mejor dicho, un conjunto de expreciones que devuelven o hacen una
+determinada accion (sentencia), para llevar a cabo dicha accion, muchas funciones utilizan 'argumentos'
+que pueden ser variables, objetos, arrays, etc. Para que una funcion devuelva un valor tienen
+la palabra reservada 'return', que significa retorno en ingles.
+
+* Declaraciones "if":
+es una exprecion que dependiendo el valor de su condicion, ya sea verdadero o falso, realizara o ejecutara
+una accion
+
+* Valores Booleanos: 
+es un tipo de valor o dato primitivo que puede ser un valor entre dos, verdadero o falso   
