@@ -1,0 +1,14 @@
+
+* for:
+es un bucle que itera o recorre algo en especifico, desde un array(matris) o un objeto. 
+Dentro de sus parentesis se declara un 'indice', cuyo valor numerico es donde
+comenzara a recorrer nuestro bucle, tiene una 'condicion', que cumplida la misma la iteracion
+del bucle finaliza, y por ultimo el 'indice' se incrementara o disminuira en cada recorrido
+del bucle, dependiendo de la accion a llevar a cabo. ej: for (let indice = 1; indice >= 10; indice++)
+
+* &&, ||, !:
+son AND, OR y NOT, respectivamente y son expreciones logicas que se utilizan generalmente para las 
+condiciones en nuestro codigo. && (AND) ambas condiciones deven ser verdaderas, para que se ejecute 
+su accion. || (OR) se utiliza entre dos condiciones y si una es falsa pero la otra verdadera se 
+ejecutara la accion. ! (NOT) si la condicion comparada es distinta, es decir no es igual, se ejecutara 
+la accion.    
