@@ -1,0 +1,8 @@
+
+* Arrays:
+tambien conocido como matrices, es un conjunto de tipos de datos (numericos,
+string, objetos, booleanos y arrays) dentro de corchetes [...] y separado por
+comas, por ejemplo: let array = [1, 'hola', true, 2022]. Esta compuesto por un indce
+numerico, que corresponde a cada uno de sus elementos, el indice comienza en 0 hasta 
+su ultimo valor, por ejemplo si tenemos un array cuya longitud de elementos es de 5, 
+el indice del primer elemento es 0 y el de su ultimo elemento es 4.
