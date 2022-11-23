@@ -1,0 +1,25 @@
+
+* Objetos:
+al igual que los arrays, los objetos son almacenadores de datos pero la diferencia 
+es que estan compuestos por pares(key: value) una clave, seguido de dos puntos(:) y su valor. 
+La clave(key) define el nombre de la propiedad, tiene que ser un string y no pueden estar repetidos. 
+El valor(value) de la clave puede variar entre numeros, strings, arrays, booleanos, variables,
+objetos, y pueden contener un valor igual a otra clave. 
+
+* Propiedades: 
+son el conjunto de claves y valores que tiene el objeto.
+
+* Métodos:
+son las funciones que tiene el objeto, mediante los mismos podemos realizar diferentes acciones
+y pueden acceder al valor de las propiedades del objeto por medio de la palabra recervada 'this.',
+que hace referencia al objeto en el que se encuentre el metodo, seguido de la key de la propiedad.
+
+* Bucle "for...in":
+es un iterador que recorre la coleccion del objeto, propiedad por propiedad. Al igual
+que un bucle 'for' dentro de los parentesis se declara una variable que sera el 'indice'
+seguido de la palabra reservada 'in' y el objeto a recorrer, for(let i in objeto){}    
+
+* Notación de puntos vs notación de corchetes:
+podemos acceder y modificar valores de una propiedad mediante ambas notaciones, la diferencia esta 
+en que la notacion de puntos no podria acceder a una variable sin embargo las de corchetes si pueden. 
+
