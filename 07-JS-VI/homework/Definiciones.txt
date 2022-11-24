@@ -1,0 +1,5 @@
+
+* Funciones Callback:
+son las funciones que tienen como parametro otra funcion, es decir, se da 
+como parametro el nombre de la funcion y dentro dentro es llamada la funcion
+del parametro para realizar determinada accion.
