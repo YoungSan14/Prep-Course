@@ -1,0 +1,11 @@
+
+* Prototype:
+es una propiedad de clases, que hace referencia a los metodos que 
+estan vinculados con las clases, son efectivos a la hora de ahorrar 
+espacios de memoria ya que son declarados una vez y los objetos 
+vinculados con esa clase pueden hacer refencia a esos metodos.
+
+* Constructors (Clases):
+son funciones que mediante parametros (argumentos) reciven las propiedades
+para construir una determinada cantidad de objetos, mejor dicho, cumple la 
+funcion de plantilla. 
