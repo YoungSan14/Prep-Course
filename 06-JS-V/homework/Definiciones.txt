@@ -8,4 +8,4 @@ vinculados con esa clase pueden hacer refencia a esos metodos.
 * Constructors (Clases):
 son funciones que mediante parametros (argumentos) reciven las propiedades
 para construir una determinada cantidad de objetos, mejor dicho, cumple la 
-funcion de plantilla. 
+funcion de plantilla para los objetos. 
